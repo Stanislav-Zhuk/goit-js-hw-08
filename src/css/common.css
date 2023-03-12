@@ -22,7 +22,7 @@ img {
   margin-bottom: 20px;
 }
 
-.nav-link {
+.nav__link {
   text-decoration: none;
 
   max-width: 150px;
@@ -43,10 +43,10 @@ img {
   cursor: pointer;
 }
 
-.nav-link:hover {
+.nav__link:hover {
   box-shadow: -2px -2px 5px #fff, 2px 2px 5px #babecc;
 }
 
-.nav-link:active {
+.nav__link:active {
   box-shadow: inset 1px 1px 2px #babecc, inset -1px -1px 2px #fff;
 }
